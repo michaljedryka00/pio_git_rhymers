@@ -19,3 +19,4 @@ public class FIFORhymer extends DefaultCountingOutRhymer {
         return ret;
     }
 }
+//brak setterow w klasach (?)
